@@ -1,0 +1,8 @@
+#topBanner {
+    background-image: url('../../assets/images/banner.jpg');
+    background-size: cover;
+    min-height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
